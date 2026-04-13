@@ -1,6 +1,6 @@
 # CogInfera
 
-![Python](https://img.shields.io/badge/python-3.9+-blue.svg) ![RAG](https://img.shields.io/badge/Architecture-Advanced%20RAG-brightgreen) ![LLM](https://img.shields.io/badge/LLM-OpenRouter-orange) ![Semantic Search](https://img.shields.io/badge/Search-Hybrid%20%28Dense%2BSparse%29-blueviolet) ![Reasoning](https://img.shields.io/badge/Reasoning-Self--RAG%20%7C%20Graph-yellow) <br>
+![Python](https://img.shields.io/badge/python-3.9+-blue.svg) ![RAG](https://img.shields.io/badge/Architecture-Advanced%20RAG-brightgreen) ![LLM](https://img.shields.io/badge/LLM-OpenRouter-orange) ![Semantic Search](https://img.shields.io/badge/Search-Hybrid%20%28Dense%2BSparse%29-blueviolet) ![Reasoning](https://img.shields.io/badge/Reasoning-Self--RAG%20%7C%20Graph-yellow) <br><br>
 Agentic + Hierarchical + Graph-Augmented + Self-Reflective Reasoning Engine
 ![System Architecture](system_architecture_old.png)
 
