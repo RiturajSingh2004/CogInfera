@@ -4,6 +4,7 @@
 
 ![System Architecture](system_architecture_old.png)
 <center>Agentic + Hierarchical + Graph-Augmented + Self-Reflective Reasoning Engine</center>
+
 ## Overview
 
 **CogInfera** is an advanced Retrieval-Augmented Generation (RAG) system designed to process complex documents, formulate query plans, and perform multi-hop reasoning. Built with modularity and extensibility in mind, it provides an end-to-end pipeline from document ingestion to intelligent answering, accessible via both a RESTful API and an interactive UI.
